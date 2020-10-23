@@ -7,5 +7,6 @@ module.exports = (api) => {
   })
   api.render('./template')
 
+  console.log(api.entryFile)
 }
 
