@@ -1,4 +1,5 @@
 {
+  "vueVersion": "2",
   "useConfigFiles": true,
   "cssPreprocessor": "sass",
   "plugins": {
